@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mobin%20Mahmud&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Full-Stack%20Web%20Developer&descSize=18&descAlignY=58" width="100%" alt="Mobin Mahmud banner" />
+<img src="./assets/banner.png" width="100%" alt="Mobin Mahmud - Junior Full-Stack Developer" />
 
 <!-- Typing animation -->
 <p align="center">
@@ -11,10 +11,10 @@
 </p>
 
 ## 👋 About Me
-I'm a Computer Science and Engineering student at **Daffodil International University** who enjoys building web applications end to end, from the interface to the database. On team projects I usually take care of database design, testing, access control, and documentation, because I believe a project is only as good as it is understandable.
+I'm a Computer Science and Engineering student who enjoys building web applications end to end, from the interface to the database. On team projects I usually take care of database design, testing, access control, and documentation, because I believe a project is only as good as it is understandable.
 
 ## 🚀 What I'm Up To
-- 🔭 Building a **Real-World Project** with a MERN Stack Tools.
+- 🔭 Building a **real-world project** with the **MERN stack**
 - 🌱 Learning **Next.js**, **TypeScript**, and **REST API design**
 - 💼 Starting an internship at **CodeAlpha**
 - 💬 Ask me about **React, MySQL, database design, and technical documentation**
