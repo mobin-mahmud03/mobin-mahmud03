@@ -55,8 +55,8 @@ I'm a Computer Science and Engineering student at **Daffodil International Unive
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mobin-mahmud03&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobin-mahmud03&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=mobin-mahmud03&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mobin-mahmud03&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mobin-mahmud03&theme=tokyonight&hide_border=true" alt="GitHub streak" />
