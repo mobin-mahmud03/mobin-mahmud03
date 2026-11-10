@@ -55,8 +55,8 @@ I'm a Computer Science and Engineering student who enjoys building web applicati
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="./profile/stats.svg" alt="GitHub stats" />
-  <img height="170" src="./profile/top-langs.svg" alt="Top languages" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=mobin-mahmud03&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mobin-mahmud03&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mobin-mahmud03&theme=tokyonight&hide_border=true&timezone=Asia%2FDhaka" alt="GitHub streak" />
