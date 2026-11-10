@@ -53,14 +53,5 @@ I'm a Computer Science and Engineering student who enjoys building web applicati
   <a href="https://github.com/mobin-mahmud03"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=mobin-mahmud03&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mobin-mahmud03&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mobin-mahmud03&theme=tokyonight&hide_border=true&timezone=Asia%2FDhaka" alt="GitHub streak" />
-</p>
-
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" alt="Footer" />
